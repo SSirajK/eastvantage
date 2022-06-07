@@ -1,6 +1,10 @@
+# Click the below link to view the deployed website for the assignment
+https://eastvantagereact.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Run (npm init -y) in the terminal for the node modules and other packages to be installed.
 
 ## Available Scripts
 
