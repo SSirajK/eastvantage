@@ -68,16 +68,3 @@ const Name = () => {
 }
 
 export default Name
-
-//     useEffect(()=>{
-//         const getData = async () => {
-//             try {
-//                 const res = await axios.get('https://randomuser.me/api')
-//                 const mydata = res.data;
-//                 setData(mydata)
-//             } catch (err) {
-//                 console.log(err)
-//             }
-//         }
-//         getData()
-//     },[])
